@@ -1,0 +1,10 @@
+.idea/
+*.DS_Store
+*.log
+*.bak
+*.out
+*.swp
+*.key
+*.pem
+*.crt
+*.csr
